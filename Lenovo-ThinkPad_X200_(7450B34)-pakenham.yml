@@ -48,7 +48,7 @@ versions:
   kernel: |
     3.9.2-3
   remark: |
-    disable AMT in BIOS, AEM not tested, <a class='ext-link' href='https://groups.google.com/d/msg/qubes-users/L-wTSdQ_luA/cHjuhjkY8tMJ'><span class='icon'>​</span>read more</a>
+    disable AMT in BIOS, AEM not tested, <a class='ext-link' href='https://groups.google.com/d/msg/qubes-users/L-wTSdQ_luA/cHjuhjkY8tMJ'><span class='icon'></span>read more</a>
   credit: |
     pakenham
   link: |

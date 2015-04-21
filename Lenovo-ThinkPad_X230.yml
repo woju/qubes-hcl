@@ -45,7 +45,7 @@ versions:
   kernel: |
     
   remark: |
-    <a class='ext-link' href='https://groups.google.com/d/msg/qubes-devel/XN6JrEXVOVA/lkxGRA00EqgJ'><span class='icon'>​</span>read more</a>
+    <a class='ext-link' href='https://groups.google.com/d/msg/qubes-devel/XN6JrEXVOVA/lkxGRA00EqgJ'><span class='icon'></span>read more</a>
   credit: |
     Chris
   link: |
@@ -60,7 +60,7 @@ versions:
   kernel: |
     
   remark: |
-    <a class='ext-link' href='https://groups.google.com/d/topic/qubes-users/hf0vkL3TE7k/discussion'><span class='icon'>​</span>read more</a>
+    <a class='ext-link' href='https://groups.google.com/d/topic/qubes-users/hf0vkL3TE7k/discussion'><span class='icon'></span>read more</a>
   credit: |
     mgflax
   link: |

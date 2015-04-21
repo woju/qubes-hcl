@@ -60,7 +60,7 @@ versions:
   kernel: |
     
   remark: |
-    <a class='ext-link' href='https://groups.google.com/d/topic/qubes-users/-b8b9fpo0UU/discussion'><span class='icon'>​</span>read more</a></td> <!-- Remarks -->
+    <a class='ext-link' href='https://groups.google.com/d/topic/qubes-users/-b8b9fpo0UU/discussion'><span class='icon'></span>read more</a></td> <!-- Remarks -->
   credit: |
     Matt Tracy
   link: |

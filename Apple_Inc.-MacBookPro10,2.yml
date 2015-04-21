@@ -45,7 +45,7 @@ versions:
   kernel: |
     3.12.23-1
   remark: |
-    <a class='ext-link' href='https://groups.google.com/d/topic/qubes-users/ZbjrseLxuPQ/discussion'><span class='icon'>​</span>read more</a>
+    <a class='ext-link' href='https://groups.google.com/d/topic/qubes-users/ZbjrseLxuPQ/discussion'><span class='icon'></span>read more</a>
   credit: |
     ph145h
   link: |

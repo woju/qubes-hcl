@@ -45,7 +45,7 @@ versions:
   kernel: |
     
   remark: |
-    <a class='ext-link' href='https://groups.google.com/d/msg/qubes-devel/0xBeX8NZFiU/bUqxGdn6KOMJ'><span class='icon'>​</span>read more</a>
+    <a class='ext-link' href='https://groups.google.com/d/msg/qubes-devel/0xBeX8NZFiU/bUqxGdn6KOMJ'><span class='icon'></span>read more</a>
   credit: |
     Outback Dingo
   link: |
@@ -60,7 +60,7 @@ versions:
   kernel: |
     
   remark: |
-    <a class='ext-link' href='https://groups.google.com/d/msg/qubes-devel/0xBeX8NZFiU/bUqxGdn6KOMJ'><span class="icon">​</span>read more</a>
+    <a class='ext-link' href='https://groups.google.com/d/msg/qubes-devel/0xBeX8NZFiU/bUqxGdn6KOMJ'><span class="icon"></span>read more</a>
   credit: |
     Outback Dingo
   link: |
@@ -75,7 +75,7 @@ versions:
   kernel: |
     
   remark: |
-    <a class='ext-link' href='https://groups.google.com/d/topic/qubes-devel/Wu1mn9f1qgM/discussion'><span class='icon'>​</span>read more</a>
+    <a class='ext-link' href='https://groups.google.com/d/topic/qubes-devel/Wu1mn9f1qgM/discussion'><span class='icon'></span>read more</a>
   credit: |
     Outback Dingo
   link: |
